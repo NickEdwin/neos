@@ -23,7 +23,6 @@ Please follow these instructions for further enlightenment.
 With your partner look through `start.rb` and `near_earth_objects.rb`
 
 - Discuss is this 'good' or 'bad' code? Why?
-
 ---
 
 ### Identify the responsibilities (10 min)
